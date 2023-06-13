@@ -20,7 +20,7 @@ Passionate about backend development and understanding how things work from scra
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,redis,php,git,js,html,css,bootstrap,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,nuxt,redis,php,git,js,html,css,bootstrap,tailwind,vite" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Passionate about backend development and understanding how things work from scra
 <h2 align="center">
   What I'm studying:<br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rust,python,c#" />
+    <img src="https://skillicons.dev/icons?i=c,rust,python" />
   </a>
 </p>
 
