@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Henrique Barrel 👋</h1>
+<h1 align="center">Hello, I'm Henrique Barrel</h1>
 
 <h2>About Me
 </h2>
@@ -6,10 +6,9 @@
 Web Developer<br>
 Passionate about backend development and understanding how things work from scratch.</p>
 <p>
-  🕒I'm a patient and detail-oriented web developer, constantly striving for perfection.<br>
-  🎯 I love taking on difficult tasks as challenges.<br>
-  💡 I'm passionate about backend development and enjoy understanding how things work from scratch.<br>
-  🧗‍♂️ I'm persistent and dedicated to delivering high-quality results.
+  I'm a patient and detail-oriented web developer, constantly striving for perfection.<br>
+  I love taking on difficult tasks as challenges.<br>
+  I'm persistent and dedicated to delivering high-quality results.
 </p>
 
 <p align="center">
