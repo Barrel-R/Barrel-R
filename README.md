@@ -3,12 +3,10 @@
 <h2>About Me
 </h2>
 <p>
-Web Developer<br>
-Passionate about backend development and understanding how things work from scratch.</p>
-<p>
-  I'm a patient and detail-oriented web developer, constantly striving for perfection.<br>
-  I love taking on difficult tasks as challenges.<br>
-  I'm persistent and dedicated to delivering high-quality results.
+Software Developer<br><br>
+Passionate about backend development and understanding how things work from scratch.<br>
+Fast-learner<br>
+Like to learn multiple different concepts, and have a general understanding of them.
 </p>
 
 <p align="center">
@@ -19,7 +17,17 @@ Passionate about backend development and understanding how things work from scra
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,mysql,nuxt,redis,php,git,js,html,css,bootstrap,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,php,js,mysql" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">Other Technologies I Use</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nuxt,nodejs,mongodb,redis,git,html,css,bootstrap,tailwind,vite" />
   </a>
 </p>
 
