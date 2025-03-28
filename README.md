@@ -1,13 +1,16 @@
 <h1 align="center">Hello, I'm Henrique Barrel</h1>
 
-<h2>About Me
-</h2>
-<p>
-Software Developer<br><br>
-Passionate about backend development and understanding how things work from scratch.<br>
-Fast-learner<br>
-Like to learn multiple different concepts, and have a general understanding of them.
+<p align="center">
+  Software Developer | <a href="https://henriquebarrel.pages.dev" target="_blank">Explore My Portfolio</a>
 </p>
+
+## About Me
+Passionate about backend development and unraveling how things work from scratch.  
+Fast learner with a knack for grasping diverse concepts and building practical solutions.
+
+- Always digging into the nuts and bolts of tech  
+- Thrive on simplicity—no bloat, just results  
+- Crafting with Laravel, Go, Vue.js, and more
 
 <p align="center">
   <img src="https://media.tenor.com/_PEwdam8b84AAAAC/iroh-tea.gif" alt="Uncle Iroh" width="300" />
@@ -17,7 +20,7 @@ Like to learn multiple different concepts, and have a general understanding of t
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,php,js,mysql,java" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,go,php,js,mysql,java" />
   </a>
 </p>
 
@@ -74,7 +77,6 @@ Like to learn multiple different concepts, and have a general understanding of t
 <p align="center">
   <a href="mailto:creb@duck.com"><img heigth=35 width=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/henrique-barrel-874919224/"><img height=35 width=35 src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100082149386610"><img height=35 width=35 src="https://cdn.icon-icons.com/icons2/2972/PNG/512/facebook_logo_icon_186880.png"/></a>
 </p>
 <br>
 <h2 align="center">Additional Information</h2>
